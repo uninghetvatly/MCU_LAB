@@ -1,0 +1,19 @@
+# STM32CubeIDE Build Folders & Artifacts
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.su
+
+# Proteus Simulation & Backup Files
+*.PWI
+*.pdsbak
+* Backup Of *.pdsprj
+*.SDF
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
